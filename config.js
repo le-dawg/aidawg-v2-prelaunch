@@ -1,6 +1,6 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Eventually', // <title>
-  manifestName: 'Eventually',
+  siteTitle: 'AIDAWG ... ', // <title>
+  manifestName: 'AI doing awkwardly graceful..',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
@@ -11,27 +11,22 @@ module.exports = {
   // social
   heading: 'Eventually',
   subHeading:
-    "A simple template for telling the world when you'll launch your next big thing.",
+    "AIDAWG rebrands to AI Doing AWkwardly Graceful ... a space for AI applications that mix artsy approaches with commerically exploitable use cases.",
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://https://github.com/le-dawg/aidawg-v2-prelaunch/',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
-      icon: 'fa-facebook',
-      name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://twitter.com/d8adawg',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:info@aidawg.ml',
     },
   ],
 };
