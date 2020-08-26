@@ -24,7 +24,6 @@
 
 		.logo {
 			width: 512px;
-			viewBox="384 0 768 512"
 		}
 
 		@include breakpoint('<=small') {
