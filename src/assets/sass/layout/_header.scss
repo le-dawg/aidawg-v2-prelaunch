@@ -5,6 +5,7 @@
 ///
 
 /* Header */
+	
 
 	#header {
 		h1 {
@@ -19,6 +20,10 @@
 
 		a {
 			color: inherit;
+		}
+
+		.logo {
+			width: 512px;
 		}
 
 		@include breakpoint('<=small') {
