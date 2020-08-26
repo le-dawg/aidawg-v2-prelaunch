@@ -9,7 +9,7 @@ module.exports = {
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-eventually/`, // This path is subpath of your hosting https://domain/portfolio
   // social
-  heading: 'Eventually',
+  heading: '',
   subHeading:
     "AIDAWG rebrands to AI Doing AWkwardly Graceful ... a space for AI applications that mix artsy approaches with commerically exploitable use cases.",
   socialLinks: [
